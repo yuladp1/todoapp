@@ -42,7 +42,9 @@
 
       <v-app-bar-nav-icon></v-app-bar-nav-icon>
 
-      <v-app-bar-title>Title</v-app-bar-title>
+      <v-app-bar-title shrink-on-scroll
+        >ToDo list using vuetify</v-app-bar-title
+      >
 
       <v-spacer></v-spacer>
 
