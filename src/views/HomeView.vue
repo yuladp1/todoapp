@@ -33,7 +33,6 @@
       </v-list>
       <v-divider inset></v-divider>
     </div>
-    // eslint-disable-next-line prettier/prettier
     <v-icon v-if="tasks.length == 0" large color="green"> mdi-check-bold </v-icon>
   </div>
 </template>
